@@ -38,7 +38,7 @@ The scope includes patient registration, doctor registration, appointment bookin
 
 ## Non-functional Requirements
 
-### 3.2 Security
+### 3.1 Security
 - Implement secure user authentication and authorization.
 - Protect sensitive user data.
 
