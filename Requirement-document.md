@@ -38,4 +38,6 @@ The scope includes patient registration, doctor registration, appointment bookin
 •	Users have internet access.
 •	Users will provide accurate and valid information during registration.
 5.2 Dependencies
+•	Dependent on the availability and reliability of the external API for hospital data.
+5.2 Dependencies
 •	Dependent on the availability and reliability of the external API for hospital data
